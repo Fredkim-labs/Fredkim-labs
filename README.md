@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Virtual Machine and Wireshark</b>
-  - [Azure Computer and Networking](https://github.com/fredkim-labs/osticket-prereqs)
+  - [Azure Computer and Networking](https://github.com/fredkim-labs/virutal-machine)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/fredkim-labs/osticket-prereqs)
