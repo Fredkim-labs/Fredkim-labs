@@ -2,13 +2,15 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>Virtual Machine and Wireshark</b>
+  - [Azure Computer and Networking](https://github.com/fredkim-labs/osticket-prereqs)
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/fredkim-labs/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/fredkim-labs/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/fredkim-labs/ticket-lifecycle)
-- <b>Microsoft Azure</b>
+
+- <b>Active Directory</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/fredkim-labs/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/fredkim-labs/azure-network-protocols)
+
 
 <h2>🤳Connect with me:</h2>
 
